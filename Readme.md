@@ -7,4 +7,4 @@ This repo is where I document my experiments (and occasional triumphs) with the 
 #Projects
 ### 01 – Hello World Add-In
 Simple TaskDialog command using `IExternalCommand`
-[see project](.HelloWorld)
+[see project](HelloWorld)
