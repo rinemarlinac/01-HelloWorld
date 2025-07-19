@@ -13,4 +13,6 @@ Simple TaskDialog command using `IExternalCommand`
 Created a new Ribbon tab with a button to launch custom commands
 [see project](ribbon-panel)
 
-
+### 03 Retrieve Selected Element
+Selects an Element and shows its category and ID
+[see project](
