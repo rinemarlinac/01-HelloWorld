@@ -8,3 +8,9 @@ This repo is where I document my experiments (and occasional triumphs) with the 
 ### 01 – Hello World Add-In
 Simple TaskDialog command using `IExternalCommand`
 [see project](HelloWord)
+
+### 02 - Ribbon Panel Button
+Created a new Ribbon tab with a button to launch custom commands
+[see project](ribbon-panel)
+
+
