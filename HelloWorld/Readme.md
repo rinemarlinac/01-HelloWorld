@@ -1,8 +1,11 @@
-# Project HelloWorld Add-In for Autodesk Revit
+# Project HelloWorld Add-In for Autodesk Revit baby step
 
 ## Overview
 This is my first Autodesk Revit add-in following the official **Revit API Developer's Guide HelloWorld Walkthrough**.
-The goal of this project was to make me understand the basics of creating an external command, adding a custom button to the Revit ribbon, and interacting with the user through a simple message dialog.
+The goal of this project was to make me understand the basics of creating an external command, adding a custom button to the Revit ribbon, and interacting with the user through a simple message dialog. 
+
+**Note:** This project is part of my journey as a BIM Drafter who decided to wander around the mysterious world of Revit API.
+I have no idea where this road leads, but hey, at least I get to break Revit in interesting ways.
 
 ## Learning Objectives
 - Set up a Revit add-in development environment (Visual Studio + RevitAPI references).
