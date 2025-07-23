@@ -35,8 +35,8 @@ Project_HelloWorld/
 6. Choose the Hello World → A simple 'HelloWorld' message box will appear.
 
 ## Screenshots
-[see screenshot](HelloWorld.jpg)
-[see screenshot](HelloWorld1.jpg)
+[see screenshot](screenshot.png)
+[see screenshot](screenshot.png)
 
 ## Key Learnings
 - How to create an external command using 'IExternalCommand'.
