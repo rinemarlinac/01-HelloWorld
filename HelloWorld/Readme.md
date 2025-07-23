@@ -13,13 +13,13 @@ I have no idea where this road leads, but hey, at least I get to break Revit in 
 - Learn how to create a custom Ribbon Panel and a PushButton
 - Explore basic user interaction using 'TaskDialog'.
 
-## Toold & Technologies
+## Tools & Technologies
 **Autodesk Revit 2021**
 **Visual Studio 2022**
 **C# (.NET Framework 4.8)**
 **RevitAPI.dll & RevitAPIUI.dll)**
 
-##Project Structure
+## Project Structure
 Project_HelloWorld/
 |
 |--HelloWorld.addin/# .addin file to load add-in into Revit
