@@ -36,7 +36,6 @@ Project_HelloWorld/
 
 ## Screenshots
 [see screenshot](screenshot.png)
-[see screenshot](screenshot.png)
 
 ## Key Learnings
 - How to create an external command using 'IExternalCommand'.
